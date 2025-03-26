@@ -9,4 +9,4 @@
 <img src="./assets/img/estrutura-de-paginas.png" alt="Imagem da estrutura dos arquivos do projeto.">
 
 <h3>Wireframe:</h3>
-<img src="./assets/img/wireframe-gdg-londrina-event-website.jpg" alt="Imagem da prototipação do site.">
+<img src="./assets/img/gdg-londrina-event-website-prototype.jpg" alt="Imagem da prototipação do site.">
